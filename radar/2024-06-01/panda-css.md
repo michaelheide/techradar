@@ -21,4 +21,4 @@ Key Features:
 - w3c compliant design system with tokens and utilities support 
 - fully typed API
 
-With a comprehensive documentation and great community support from the Shakra UI Team we see a lot of potential to become one of the best CSS-in-JS libraries in the future.
+With a comprehensive documentation and great community support from the Chakra UI Team we see a lot of potential to become one of the best CSS-in-JS libraries in the future.
